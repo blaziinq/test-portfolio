@@ -17,9 +17,9 @@ header {
 }
 
 .navbar-text { /*This shit glows*/
-  font-size: 2.5vw;
+  font-size: 30px;
   color: #009e00;
-  text-shadow: 0 0 0.8vw rgb(0, 255, 21);
+  text-shadow: 0 0 30px rgb(0, 255, 21);
   font-family: 'Source Code Pro', monospace;
 }
 
