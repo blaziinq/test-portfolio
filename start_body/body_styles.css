@@ -32,3 +32,13 @@ header {
   border-style: hidden;
   outline: none;
 }
+
+footer {
+  background-color: rgb(216, 216, 216);
+  overflow: hidden;
+}
+footer p {
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
