@@ -14,6 +14,7 @@ function make_header() {
 }
 function make_footer() {
   footer = `
+  <pre style="font-family: 'PT Sans', sans-serif; text-align: center">____________</pre>
   <p>
     Well, this is the bottom of the page, but if you want, here are all the
     pages: <br />
